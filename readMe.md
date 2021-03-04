@@ -1,0 +1,1 @@
+A touch slider simple vanilla JS project. 
